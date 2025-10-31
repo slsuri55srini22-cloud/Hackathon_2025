@@ -1,0 +1,30 @@
+C:\Users\Administrator\Documents>python Script.py
+Labels detected:
+Electronic device (confidence: 0.98)
+Computer (confidence: 0.93)
+Office Equipment (confidence: 0.92)
+Gadget (confidence: 0.92)
+Personal computer (confidence: 0.91)
+Peripheral (confidence: 0.89)
+Output device (confidence: 0.88)
+Technology (confidence: 0.87)
+Display device (confidence: 0.86)
+Computer hardware (confidence: 0.84)
+
+Detected text: :(
+Your device ran into a problem and needs to restart.
+We're just collecting some error info, and then we'll
+restart for you.
+63% complete
+For more information about this issue and possible fixes, visit
+https://www.windows.com/stopcode
+If you call a support person, give them this info
+Stop code: DRIVER POWER STATE FAILURE
+hp
+
+No faces detected.
+
+No landmarks detected.
+
+Logos detected:
+Logo: Hewlett-Packard
